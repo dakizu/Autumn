@@ -2,7 +2,7 @@
     "name": "autumn",
     "displayName": "Autumn",
     "description": "A color theme loosely based on the one seen in the Cogmind development blog.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "dakizu",
     "engines": {
         "vscode": "^1.46.0"
