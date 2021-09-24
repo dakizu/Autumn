@@ -14,3 +14,6 @@ All notable changes to the "autumn" extension will be documented in this file.
 - The rust-analyzer extension is now also officially supported. Type annotations are highlighed in the same dimmed foreground color as lifetimes.
 - Code that might negatively impact codegen now has a dedicated color. This should help the user be more aware of their macro and attribute usage, potentially helping impove compilation time.
 - Other languages have regressed slightly in highlighting as I removed a lot of generic colorization, opting for a more language-specific color scheme for each language I use. Following updates will hopefully add unique and syntactically helpful colorization to other languages.
+
+## [1.1.1] - 2021-09-23
+- Functions now have their own dedicated color.
